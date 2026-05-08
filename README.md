@@ -81,6 +81,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshajny/DSA-List-Py/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Harshajny/DSA-List-Py/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Harshajny/DSA-List-Py/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Harshajny/DSA-List-Py/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,4 +105,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0136-single-number](https://github.com/Harshajny/DSA-List-Py/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Harshajny/DSA-List-Py/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Harshajny/DSA-List-Py/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Harshajny/DSA-List-Py/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
