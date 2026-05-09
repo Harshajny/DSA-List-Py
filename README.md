@@ -66,6 +66,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0283-move-zeroes](https://github.com/Harshajny/DSA-List-Py/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harshajny/DSA-List-Py/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/Harshajny/DSA-List-Py/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/Harshajny/DSA-List-Py/tree/master/0735-asteroid-collision) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,4 +127,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Harshajny/DSA-List-Py/tree/master/0733-flood-fill) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Harshajny/DSA-List-Py/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Harshajny/DSA-List-Py/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
