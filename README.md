@@ -65,6 +65,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0268-missing-number](https://github.com/Harshajny/DSA-List-Py/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Harshajny/DSA-List-Py/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Harshajny/DSA-List-Py/tree/master/0485-max-consecutive-ones) |
+| [0733-flood-fill](https://github.com/Harshajny/DSA-List-Py/tree/master/0733-flood-fill) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,4 +114,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Harshajny/DSA-List-Py/tree/master/0509-fibonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Harshajny/DSA-List-Py/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Harshajny/DSA-List-Py/tree/master/0733-flood-fill) |
+## Matrix
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/Harshajny/DSA-List-Py/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
